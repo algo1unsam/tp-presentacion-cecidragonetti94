@@ -1,10 +1,2 @@
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+## Soy Cecilia Dragonetti
+Tengo 27 años y estoy haciendo la tecnicatura programación informatica. Empece estudiando en la Unsam Administración de empresas. A la mitad de la carrera, me di cuenta que no me gustaba y me anote a la tecnicatura en programacion informatica. El año pasado pude conseguir mi primer trabajo IT , soy desarrolladora jr frontend. Y espero que la facultad me siga dando mas herramientas para seguir aprendiendo.
